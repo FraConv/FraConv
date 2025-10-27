@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a passionate and ambitious programmer and designer :D</p>
+<p align="left">I am a passionate and ambitious developer and designer :D</p>
 
 ###
 
