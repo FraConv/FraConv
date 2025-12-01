@@ -2,14 +2,6 @@
 
 ###
 
-<p align="left">I am a passionate and ambitious developer and designer :D</p>
-
-###
-
-<h1 align="left">Hey there!  I'm Francesco👋</h1>
-
-###
-
 <p align="left">I am a passionate and ambitious programmer and designer :D</p>
 
 ###
@@ -73,9 +65,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/FraConv/FraConv/output/snake.svg" alt="Snake animation" />
-
-###
